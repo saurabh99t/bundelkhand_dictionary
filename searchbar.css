@@ -79,11 +79,12 @@ button:hover {
 
 .word-card  h2{
     /* text-align: center; */
+    margin-top: 0;
 }
 
 
 .word-card {
-    padding-bottom: 30px;
+    padding-bottom: 5px;
     background-color: whitesmoke;
     padding-left: 100px;
     padding-top: 20px;
