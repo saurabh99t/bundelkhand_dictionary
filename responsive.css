@@ -20,7 +20,7 @@
 
 @media (max-width: 768px){
     .word-card {
-        padding-left: 35px;
+        padding: 35px;
     }
     .h1-main h1{
         position: absolute; 
